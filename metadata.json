@@ -1,0 +1,7 @@
+{
+  "name": "Street Grit Portraitist",
+  "description": "Transform portraits into gritty, early-2000s documentary-style street photography with muscular canine companions and urban aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
